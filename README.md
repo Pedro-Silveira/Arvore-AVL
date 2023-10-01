@@ -11,11 +11,11 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Este código implementa uma Árvore AVL (Árvore de Busca Binária Balanceada) em Python.
 
-### ⌨️ Classe NodoAVL()
+### 🔩 Classe NodoAVL()
 
 Essa classe representa um nó na árvore AVL. Cada nó contém uma chave (valor), uma altura, uma referência para o nó à esquerda e uma referência para o nó à direita.
 
-## ⌨️ Classe ArvoreAVL()
+### 🔩 Classe ArvoreAVL()
 
 Essa classe representa a árvore AVL em si. Ela tem um atributo _"raiz"_, que aponta para o nó raiz da árvore ou é _"None"_ se a árvore estiver vazia.
 
